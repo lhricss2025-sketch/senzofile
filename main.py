@@ -16,8 +16,8 @@ from telegram.error import TelegramError
 # Configuration
 # ─────────────────────────────────────────────
 import os
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8480004123:AAEmDVAia46G5ggfDqLDEIXNy5Zy4erXsOo")
-ADMIN_ID  = int(os.getenv("ADMIN_ID", "6070145287"))
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8863632618:AAHybJVTAKAGoLGrF9CP_SvYhdUwo8j_eQg")
+ADMIN_ID  = int(os.getenv("ADMIN_ID", "8105949422"))
 DB_PATH   = "bot.db"
 
 # Conversation states
